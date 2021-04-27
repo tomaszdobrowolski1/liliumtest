@@ -1,0 +1,11 @@
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\bin\Debug\netcoreapp2.2\LiliumTest.deps.json
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\bin\Debug\netcoreapp2.2\LiliumTest.runtimeconfig.json
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\bin\Debug\netcoreapp2.2\LiliumTest.runtimeconfig.dev.json
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\bin\Debug\netcoreapp2.2\LiliumTest.dll
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\bin\Debug\netcoreapp2.2\LiliumTest.pdb
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\obj\Debug\netcoreapp2.2\LiliumTest.csprojAssemblyReference.cache
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\obj\Debug\netcoreapp2.2\LiliumTest.csproj.CoreCompileInputs.cache
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\obj\Debug\netcoreapp2.2\LiliumTest.AssemblyInfoInputs.cache
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\obj\Debug\netcoreapp2.2\LiliumTest.AssemblyInfo.cs
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\obj\Debug\netcoreapp2.2\LiliumTest.dll
+C:\Users\tdobr\source\repos\LiliumTest\LiliumTest\obj\Debug\netcoreapp2.2\LiliumTest.pdb

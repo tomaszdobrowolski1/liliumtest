@@ -1,0 +1,9 @@
+C:\Users\tdobr\source\repos\LiliumTest\Data.Models\bin\Debug\netcoreapp2.2\Data.Models.deps.json
+C:\Users\tdobr\source\repos\LiliumTest\Data.Models\bin\Debug\netcoreapp2.2\Data.Models.dll
+C:\Users\tdobr\source\repos\LiliumTest\Data.Models\bin\Debug\netcoreapp2.2\Data.Models.pdb
+C:\Users\tdobr\source\repos\LiliumTest\Data.Models\obj\Debug\netcoreapp2.2\Data.Models.csproj.CoreCompileInputs.cache
+C:\Users\tdobr\source\repos\LiliumTest\Data.Models\obj\Debug\netcoreapp2.2\Data.Models.AssemblyInfoInputs.cache
+C:\Users\tdobr\source\repos\LiliumTest\Data.Models\obj\Debug\netcoreapp2.2\Data.Models.AssemblyInfo.cs
+C:\Users\tdobr\source\repos\LiliumTest\Data.Models\obj\Debug\netcoreapp2.2\Data.Models.dll
+C:\Users\tdobr\source\repos\LiliumTest\Data.Models\obj\Debug\netcoreapp2.2\Data.Models.pdb
+C:\Users\tdobr\source\repos\LiliumTest\Data.Models\obj\Debug\netcoreapp2.2\Data.Models.csprojAssemblyReference.cache

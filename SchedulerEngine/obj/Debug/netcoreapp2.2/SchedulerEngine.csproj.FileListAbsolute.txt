@@ -1,0 +1,17 @@
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\obj\Debug\netcoreapp2.2\SchedulerEngine.csprojAssemblyReference.cache
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\obj\Debug\netcoreapp2.2\SchedulerEngine.csproj.CoreCompileInputs.cache
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\obj\Debug\netcoreapp2.2\SchedulerEngine.AssemblyInfoInputs.cache
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\obj\Debug\netcoreapp2.2\SchedulerEngine.AssemblyInfo.cs
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\Crew.json
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\SchedulerEngine.deps.json
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\SchedulerEngine.dll
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\SchedulerEngine.pdb
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\Data.Core.dll
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\Data.Models.dll
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\Scheduler.Models.dll
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\Data.Core.pdb
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\Scheduler.Models.pdb
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\bin\Debug\netcoreapp2.2\Data.Models.pdb
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\obj\Debug\netcoreapp2.2\SchedulerEngine.csproj.CopyComplete
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\obj\Debug\netcoreapp2.2\SchedulerEngine.dll
+C:\Users\tdobr\source\repos\LiliumTest\SchedulerEngine\obj\Debug\netcoreapp2.2\SchedulerEngine.pdb

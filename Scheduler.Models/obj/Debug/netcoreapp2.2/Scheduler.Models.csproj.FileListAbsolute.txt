@@ -1,0 +1,9 @@
+C:\Users\tdobr\source\repos\LiliumTest\Scheduler.Models\bin\Debug\netcoreapp2.2\Scheduler.Models.deps.json
+C:\Users\tdobr\source\repos\LiliumTest\Scheduler.Models\bin\Debug\netcoreapp2.2\Scheduler.Models.dll
+C:\Users\tdobr\source\repos\LiliumTest\Scheduler.Models\bin\Debug\netcoreapp2.2\Scheduler.Models.pdb
+C:\Users\tdobr\source\repos\LiliumTest\Scheduler.Models\obj\Debug\netcoreapp2.2\Scheduler.Models.csprojAssemblyReference.cache
+C:\Users\tdobr\source\repos\LiliumTest\Scheduler.Models\obj\Debug\netcoreapp2.2\Scheduler.Models.csproj.CoreCompileInputs.cache
+C:\Users\tdobr\source\repos\LiliumTest\Scheduler.Models\obj\Debug\netcoreapp2.2\Scheduler.Models.AssemblyInfoInputs.cache
+C:\Users\tdobr\source\repos\LiliumTest\Scheduler.Models\obj\Debug\netcoreapp2.2\Scheduler.Models.AssemblyInfo.cs
+C:\Users\tdobr\source\repos\LiliumTest\Scheduler.Models\obj\Debug\netcoreapp2.2\Scheduler.Models.dll
+C:\Users\tdobr\source\repos\LiliumTest\Scheduler.Models\obj\Debug\netcoreapp2.2\Scheduler.Models.pdb

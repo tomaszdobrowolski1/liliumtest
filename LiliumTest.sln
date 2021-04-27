@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LiliumTest", "LiliumTest\LiliumTest.csproj", "{A7058483-F1A6-4FF6-BCFD-13ECF5658AB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.Core", "Data.Core\Data.Core.csproj", "{0E52C648-EF96-4CEF-B507-47433D7C9028}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data.Models", "Data.Models\Data.Models.csproj", "{19DAA4D0-E366-4342-8FB7-31E8C5CE3B14}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "Tests\Tests.csproj", "{C933CFD2-4831-426F-9CDD-5754BBA6603D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiliumScheduler", "LiliumScheduler\LiliumScheduler.csproj", "{4DD37BC9-AF2E-4010-9486-D6A8005DF91D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulerEngine", "SchedulerEngine\SchedulerEngine.csproj", "{607CF822-FFF8-4A8F-BA94-24B4243872D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scheduler.Models", "Scheduler.Models\Scheduler.Models.csproj", "{48BBA654-CCCD-4B4F-BDBC-4700BFEC731B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7058483-F1A6-4FF6-BCFD-13ECF5658AB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7058483-F1A6-4FF6-BCFD-13ECF5658AB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7058483-F1A6-4FF6-BCFD-13ECF5658AB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7058483-F1A6-4FF6-BCFD-13ECF5658AB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E52C648-EF96-4CEF-B507-47433D7C9028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E52C648-EF96-4CEF-B507-47433D7C9028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E52C648-EF96-4CEF-B507-47433D7C9028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E52C648-EF96-4CEF-B507-47433D7C9028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19DAA4D0-E366-4342-8FB7-31E8C5CE3B14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DAA4D0-E366-4342-8FB7-31E8C5CE3B14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DAA4D0-E366-4342-8FB7-31E8C5CE3B14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DAA4D0-E366-4342-8FB7-31E8C5CE3B14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C933CFD2-4831-426F-9CDD-5754BBA6603D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C933CFD2-4831-426F-9CDD-5754BBA6603D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C933CFD2-4831-426F-9CDD-5754BBA6603D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C933CFD2-4831-426F-9CDD-5754BBA6603D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD37BC9-AF2E-4010-9486-D6A8005DF91D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD37BC9-AF2E-4010-9486-D6A8005DF91D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD37BC9-AF2E-4010-9486-D6A8005DF91D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD37BC9-AF2E-4010-9486-D6A8005DF91D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{607CF822-FFF8-4A8F-BA94-24B4243872D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{607CF822-FFF8-4A8F-BA94-24B4243872D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{607CF822-FFF8-4A8F-BA94-24B4243872D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{607CF822-FFF8-4A8F-BA94-24B4243872D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48BBA654-CCCD-4B4F-BDBC-4700BFEC731B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48BBA654-CCCD-4B4F-BDBC-4700BFEC731B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48BBA654-CCCD-4B4F-BDBC-4700BFEC731B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48BBA654-CCCD-4B4F-BDBC-4700BFEC731B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3CA8DDA-A22D-449E-A89D-063BD54ADB53}
+	EndGlobalSection
+EndGlobal
